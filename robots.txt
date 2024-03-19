@@ -1,0 +1,6 @@
+# START nuxt-simple-robots (indexable)
+User-agent: *
+
+Sitemap: https://devlog.besfir.org/sitemap.xml
+Sitemap: https://devlog.besfir.org/sitemap_index.xml
+# END nuxt-simple-robots
