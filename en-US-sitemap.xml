@@ -8,6 +8,9 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://devlog.besfir.org/ko/" />
         <xhtml:link rel="alternate" hreflang="en" href="https://devlog.besfir.org/" />
         <image:image>
+            <image:loc>https://devlog.besfir.org/_ipx/s_1024x647/s3/devlog/3_git-clone-specific-directory/75efaeab-a124-49dc-85da-38922ff6ed45.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://devlog.besfir.org/_ipx/s_1024x647/s3/devlog/2_tailwindcss-typhography-plugin/590d2d7b-9b88-4921-ac31-4b95949b6963.webp</image:loc>
         </image:image>
         <image:image>
@@ -30,6 +33,9 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://devlog.besfir.org/ko/blog/" />
         <xhtml:link rel="alternate" hreflang="en" href="https://devlog.besfir.org/blog/" />
         <image:image>
+            <image:loc>https://devlog.besfir.org/_ipx/q_100&amp;amp;s_1024x647/s3/devlog/3_git-clone-specific-directory/75efaeab-a124-49dc-85da-38922ff6ed45.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://devlog.besfir.org/_ipx/q_100&amp;amp;s_1024x647/s3/devlog/2_tailwindcss-typhography-plugin/590d2d7b-9b88-4921-ac31-4b95949b6963.webp</image:loc>
         </image:image>
         <image:image>
@@ -47,6 +53,9 @@
     <url>
         <loc>https://devlog.besfir.org/blog/page/1/</loc>
         <image:image>
+            <image:loc>https://devlog.besfir.org/_ipx/q_100&amp;amp;s_1024x647/s3/devlog/3_git-clone-specific-directory/75efaeab-a124-49dc-85da-38922ff6ed45.webp</image:loc>
+        </image:image>
+        <image:image>
             <image:loc>https://devlog.besfir.org/_ipx/q_100&amp;amp;s_1024x647/s3/devlog/2_tailwindcss-typhography-plugin/590d2d7b-9b88-4921-ac31-4b95949b6963.webp</image:loc>
         </image:image>
         <image:image>
@@ -57,6 +66,18 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://devlog.besfir.org/blog/page/1/" />
         <xhtml:link rel="alternate" hreflang="en-US" href="https://devlog.besfir.org/blog/page/1/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://devlog.besfir.org/blog/page/1/" />
+    </url>
+    <url>
+        <loc>https://devlog.besfir.org/blog/2024/03/git-clone-specific-directory/</loc>
+        <lastmod>2024-03-27T02:55:00Z</lastmod>
+        <xhtml:link rel="alternate" href="https://devlog.besfir.org/blog/2024/03/git-clone-specific-directory/" hreflang="en" />
+        <xhtml:link rel="alternate" href="https://devlog.besfir.org/ko/blog/2024/03/git-clone-specific-directory/" hreflang="ko" />
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://devlog.besfir.org/ko/blog/2024/03/git-clone-specific-directory/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://devlog.besfir.org/blog/2024/03/git-clone-specific-directory/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://devlog.besfir.org/blog/2024/03/git-clone-specific-directory/" />
+        <image:image>
+            <image:loc>https://devlog.besfir.org/_ipx/q_100&amp;amp;s_1024x647/s3/devlog/3_git-clone-specific-directory/75efaeab-a124-49dc-85da-38922ff6ed45.webp</image:loc>
+        </image:image>
     </url>
     <url>
         <loc>https://devlog.besfir.org/blog/2024/03/setting-the-timezone-in-alpine/</loc>
@@ -116,6 +137,39 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://devlog.besfir.org/blog/tags/Frontend/page/1/" />
     </url>
     <url>
+        <loc>https://devlog.besfir.org/blog/tags/Git/page/1/</loc>
+        <image:image>
+            <image:loc>https://devlog.besfir.org/_ipx/q_100&amp;amp;s_1024x647/s3/devlog/3_git-clone-specific-directory/75efaeab-a124-49dc-85da-38922ff6ed45.webp</image:loc>
+        </image:image>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://devlog.besfir.org/ko/blog/tags/Git/page/1/" />
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://devlog.besfir.org/ko/blog/tags/Git/page/1/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://devlog.besfir.org/blog/tags/Git/page/1/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://devlog.besfir.org/blog/tags/Git/page/1/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://devlog.besfir.org/blog/tags/Git/page/1/" />
+    </url>
+    <url>
+        <loc>https://devlog.besfir.org/blog/tags/Partial Checkout/page/1/</loc>
+        <image:image>
+            <image:loc>https://devlog.besfir.org/_ipx/q_100&amp;amp;s_1024x647/s3/devlog/3_git-clone-specific-directory/75efaeab-a124-49dc-85da-38922ff6ed45.webp</image:loc>
+        </image:image>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://devlog.besfir.org/ko/blog/tags/Partial Checkout/page/1/" />
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://devlog.besfir.org/ko/blog/tags/Partial Checkout/page/1/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://devlog.besfir.org/blog/tags/Partial Checkout/page/1/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://devlog.besfir.org/blog/tags/Partial Checkout/page/1/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://devlog.besfir.org/blog/tags/Partial Checkout/page/1/" />
+    </url>
+    <url>
+        <loc>https://devlog.besfir.org/blog/tags/Sparse Checkout/page/1/</loc>
+        <image:image>
+            <image:loc>https://devlog.besfir.org/_ipx/q_100&amp;amp;s_1024x647/s3/devlog/3_git-clone-specific-directory/75efaeab-a124-49dc-85da-38922ff6ed45.webp</image:loc>
+        </image:image>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://devlog.besfir.org/ko/blog/tags/Sparse Checkout/page/1/" />
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://devlog.besfir.org/ko/blog/tags/Sparse Checkout/page/1/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://devlog.besfir.org/blog/tags/Sparse Checkout/page/1/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://devlog.besfir.org/blog/tags/Sparse Checkout/page/1/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://devlog.besfir.org/blog/tags/Sparse Checkout/page/1/" />
+    </url>
+    <url>
         <loc>https://devlog.besfir.org/blog/tags/Tailwind CSS/page/1/</loc>
         <image:image>
             <image:loc>https://devlog.besfir.org/_ipx/q_100&amp;amp;s_1024x647/s3/devlog/2_tailwindcss-typhography-plugin/590d2d7b-9b88-4921-ac31-4b95949b6963.webp</image:loc>
@@ -127,4 +181,4 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://devlog.besfir.org/blog/tags/Tailwind CSS/page/1/" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.2 at 2024-03-19T09:48:26.507Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v5.1.2 at 2024-03-27T02:56:32.609Z -->

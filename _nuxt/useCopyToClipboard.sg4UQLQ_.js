@@ -1,1 +1,0 @@
-import{au as s,av as u}from"./entry.vTdoUZMO.js";function f(t={}){const{copy:n,isSupported:p}=s(),i=u();function a(e,o={},r={}){p&&n(e).then(()=>{!o.title&&!o.description||i.add({...o,...t})},function(d){i.add({...r,description:r.description||d.message,...t})})}return{copy:a}}export{f as u};
